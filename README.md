@@ -4,7 +4,7 @@
 This project focuses on building an interactive dashboard to explore the Belly Button Biodiversity dataset. The following components were implemented:
 
 ### Data Integration
-- Utilized the D3 library to read the `samples.json` file from the provided URL.
+- Utilized the D3 library to read the `samples.json` file from the provided URL: https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
 
 ### Bar Chart
 - Created a horizontal bar chart to display the top 10 Operational Taxonomic Units (OTUs) found in an individual.
